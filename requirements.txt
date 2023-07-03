@@ -1,4 +1,4 @@
-Pyrogram
+Programme
 tgcrypto
 requests
 bs4
